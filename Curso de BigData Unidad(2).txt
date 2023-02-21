@@ -143,4 +143,19 @@ Definiendo Lambda:   Es el procesamiento de datos sin tener en cuenta las capas 
    en varias maquinas para despues coordinarse
    
    
+   
+   
+   =======================================================================================================================================================================
+   El MapReduce 
+   Tiene encuenta los siguientes puentos
+   
+  (-) Planificacon
+  (-) Sincronizacion
+  (-) Codigo-Data
+  (-) Gestion de Errores
+   
+   
+   
+   
+   
 
