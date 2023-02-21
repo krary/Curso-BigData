@@ -74,4 +74,55 @@ Gracias la este internet de las cosas es que empieza a aparecer un nuevo tipo de
 
 
 MARCO ARQUITECTONICO DE LA BIG DATA
+=======================================Arquitecura Lambda========================================================================
+
+Definiendo Lambda:   Es el procesamiento de datos sin tener en cuenta las capas de procesameinto osea es la interpetacion de los datos en STREAMING 
+   esta definicion y mas se puede obtener el siguiente enlace  [ https://aprenderbigdata.com/arquitectura-lambda/ ]
+   
+   
+   
+   -========================-
+   -MONETIZACION DE LOS DATOS -
+   -==========================-
+   
+   
+   EL TEOREMA DE BREWER O CAP
+   LAS NUEVAS BASES DE DATOS 
+   
+   PROCESAMIENTO DISTRIBUTIVOS
+   =========================
+   
+   
+   
+   ======================
+   Systema Operacionales    : Empresa buscando efisiencia o productividad
+   =====================
+   
+   
+   ======================
+   Sytema departamentales    : Datos proporcionados por las instituciones y departamentos
+   ======================
+   
+   
+   ==================================================================================================================================================================
+        Objetivos y Capacidades
+   ===============================================================================================================================================================
+   
+   Conocer le problema que surge entre la Big Data y el teorema de Brewer o o CAP
+   A nivel tecnologico la Big Data resuelve el problema de el strock o almacenamiento a traves de su distribucion   
+   
+   Y el teorema de CAP dice:
+   
+   1) Consistencia siempre tiene que obtenerse el mismo valor
+   2) Disponiblidad que todos los datos esten a disposicion de los usuarios simepre aquntqu en los nodos haya fallado
+   3) Particiones Los sistemas distribuidos pueden presntar divisiones por lo que cuando un sistema cae debera estar disponible siempre el sistema
+   4) Marca de categorias Muestra una jerarquia 
+   
+   Consistencia: Big Table Hyper Table HBase MongoDb
+   Disponibilidad RDBS GreenPlum
+   Tolerancia: 
+   
+   
+   
+   
 
