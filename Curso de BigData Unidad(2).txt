@@ -1,0 +1,77 @@
+correo del profe[nacho.espadas@gmail.com]
+
+
+https://www.madrimasd.org/blogs/sostenibilidad_responsabilidad_social/2019/08/28/132689
+
+En el enlace anterior se expone como la psicologia es cruzial en la toma de desiciones del homusEconomicus
+Richard Thaler Premio Nobel
+
+
+
+Extrapolando conceptos a la praxis
+Que tipo de algoritmos usa tanto el Buisness intelligence para cumplir o buscar ciertos paramtros
+
+Lo que si esta claro es que la Big Data maneja grandes volumenes de informacion que por necesidad tambien debe de manejar alguno que otro 
+algoritmo
+
+==========================================================================================================================================
+
+2)Topologia de Datos (No Estructurados)
+
+Lo que nos ayuda a definir nuestro poryecto es el tipo de datos que tenemos en nuestras manos el origen de dichos datos es fundamental para
+elegir a su vez el tipo de paramtro de que queremos desarrollar en el Biusness intelligence
+
+Estos datos pueden ser
+
+(-)Estructurados 
+(-)Generados por una Empresa
+(-)Dirigidos por una transaccion
+(-)Compilados
+(-)Experimentales
+
+Estos nos muestra la tipologia de  los datos
+============================================================================================================================================
+
+
+
+
+
+
+
+(-)Capturados
+(-)Procedentes de los usuarios
+(-)Hibridos 
+
+
+Estos nos muestra algunos de los datos tipados no estructurados
+=============================================================================================================================================
+
+Actividad de Aprendizaje 
+
+Si los datos tienen una formalidad o una estructura definidas
+
+
+============================================================================================================================================
+
+
+
+Tratamiento de Los Datos
+
+Aparece el internet de las cosas 
+Gracias la este internet de las cosas es que empieza a aparecer un nuevo tipo de datos he inmensamente mas voluminosos
+
+===========================================================================================================================================
+======================CAPAS DE EL PROCESAMIENTO DE LOS DATOS=====================================================
+=========================================================================================================================================
+(-)Ingestion de datos
+(-)Recoleccion de datos
+(-)Procesamiento de datos
+(-)Almacenamientos de los datos
+(-)Consulta de datos 
+(-)Visualizacion de dichos datos
+=======================================================================================================================================
+
+
+
+MARCO ARQUITECTONICO DE LA BIG DATA
+
