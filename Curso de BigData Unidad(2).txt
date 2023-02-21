@@ -122,7 +122,25 @@ Definiendo Lambda:   Es el procesamiento de datos sin tener en cuenta las capas 
    Disponibilidad RDBS GreenPlum
    Tolerancia: 
    
+  
+  
+==================================================================================================================================================================  
+   Tipos de Bases de Datos
+=================================================================================================================================================================
+   (-)Base de Datos clave valoe
    
+   (-)Base de Datos Documentales
+   
+   (-)Base de Datsos en grafo
+   
+   
+   ================================================================================================================================================================
+   Procesamiento Distribuidos
+   ================================================================================================================================================================
+   
+   Es una tecnologia que permite a los programadores obtener una gran capidad de almacenamiento no Estructurados
+   Se prepara la funcion map para despues dar origin a otro tipo de datos lo que hacer es dividir el computo en partes mas pequeñas para procesar los datos en 
+   en varias maquinas para despues coordinarse
    
    
 
