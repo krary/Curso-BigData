@@ -66,3 +66,14 @@ Caracteristicas de informe
 ºSencillez
 ºPotencia
 ºCompatible
+ºPersonalizable
+========================================================================================================================================================================
+Sistemas OLAP Relacionales – ROLAP. Formado por bases de
+datos relacionales clásicas de rápido acceso y escalable.
+Sistemas OLAP Multidimensionales – MOLAP. Este es el
+modelo OLAP por excelencia en donde se sale de los límites de
+las 2 dimensiones para trabajar con cubos multidimensionales,
+siendo ideal para grandes volúmenes de datos.
+Sistemas híbridos – HOLAP. Une las ventajas de ambos
+sistemas, ofreciendo escalabilidad y rapidez de gestión en
+grandes volúmenes de datos.
