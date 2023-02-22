@@ -1,0 +1,27 @@
+=============================================================================================================================================================================
+                      Arquitecturas de datos 
+===========================================================================================================================================================================
+
+
+  Quw es un Dato : Es una representacion de alguna cosa como por ejemplo numerico alfabetico algoritmico espacial etc
+  
+ ==========================================================================================================================================================================
+ Las Bases estan constituidas por datos inter-relacionados que forman un sistema de informacion deo Sobre hechos conocidos 
+ la bases pueden ser por diferentes fuentes tamaños y fuentes
+ LOS SISTEMAS DE GESTORES DE DATOS MAS CONCOCIDOS SON 
+ (-)MICROSOFT FILE Marker PRO
+ (-)MICROSOFT ACCESS
+ (-)MARIA DB
+ 
+ 
+ CONCEPTO UNA BASE DE DATOS SE COMPONEN DE DATOS ESTRUCTURADOS EN COLUMNAS CUYO REGISTROS SON FACILMENTE MANEJABLES APLICABLES ALMACENABLES DE FACIL ASIMILACION
+ BUQUEDA Y FILTRADO PUDIENDO ESTOS GENERAR NUEVOS DATOS A TRAVES DE ALGORITMOS U OPERACIONES MATEMATICAS O ESTADISTICAS
+ 
+ UNA BASE  DE DATOS ESTA DEFINIFA POR SU ESTRUCTURA TIPOS DE DATOS Y RESTRICCIONES 
+ EL DATOS POR SI SOLO NO TIENE VALOS A TRAVES DE SU CONTEXTUALIZACION TRATAMIENTO Y PROCESAMIENTO ES CUANDO SE OBTIENE LA INFORMACION
+ DE NUEVO ESTA PRESENTE LAS CUATROS VV
+  (-) VOLUMNE
+   (-)VELOCIDAD
+    (-)VARIEDAD
+     (-)VERACIDAD
+ 
